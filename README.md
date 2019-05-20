@@ -6,4 +6,5 @@ Practicing with React Native Express Todo app
 2. `react-native run-ios`
 
 ## Image:
-https://imgur.com/SqRmP1n
+![Demo](https://i.imgur.com/SqRmP1n.png)
+
